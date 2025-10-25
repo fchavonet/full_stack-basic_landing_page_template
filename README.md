@@ -47,7 +47,7 @@ git clone https://github.com/fchavonet/full_stack-basic_landing_page_template.gi
 
 ### Usage
 
-1. Open the `index.html` file in your browser.
+1. Open the `index.html` file in your web browser.
 
 2. Customize the page title and logo:
     - In the `<head>` section, change the content inside `<title>`:
