@@ -108,7 +108,7 @@ git clone https://github.com/fchavonet/web-basic_landing_page_template.git
         - Go to the repository `Settings > Pages`, set the source to main branch and save..
         - Your site will be live at https://your-username.github.io/repo-name.
 
-You can also test the web application online by clicking [here](https://fchavonet.github.io/full_stack-basic_landing_page_template/).
+You can also test the project online by clicking [here](https://fchavonet.github.io/full_stack-basic_landing_page_template/).
 
 <table>
     <tr>
